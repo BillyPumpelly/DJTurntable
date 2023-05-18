@@ -99,10 +99,12 @@ main {
   border-color:green;
   color:white;
 }
-    
+ main a {
+   color:#8F8FFF;
+ }
 footer {
   grid-area:footer;
-  color:green;
+  color:#00B0D00;
   font-size:1vw;
   padding:5px;
   clear:both;
